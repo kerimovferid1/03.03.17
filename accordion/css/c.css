@@ -1,0 +1,9 @@
+div.acc {
+    background-color: gray;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+      border: 1px solid black;
+}
