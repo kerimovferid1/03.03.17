@@ -1,0 +1,102 @@
+.wrapper{
+	width: 1250px;
+	height: 100%;
+	margin: 0 auto;
+	position: relative;
+}
+.rButton{
+	width: 60px;
+	float:left;
+	height: 100%;
+	position: absolute;
+	top:0;
+	left: 0;
+	background: rgba(255, 255, 255, 0.4);
+	
+	
+}
+.lButton{
+	width: 60px;
+	float: right;
+	height: 100%;
+		position: absolute;
+		top:0;
+		right: 0;
+		background: rgba(255, 255, 255, 0.4);
+
+
+}
+
+button>i{
+	color: white;
+	width: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.q{
+margin:0 auto; 
+position: absolute;
+    bottom: 5px;
+    left: 20%;
+}
+.h{
+	width: 170px;
+	height: 130px;
+	background: red;
+	float: left;
+	margin-left: 15px;
+}
+.rButton{
+	width: 60px;
+	height: 100%;
+    
+	float: left;
+	background:black;
+	opacity: 0.4;
+	position: absolute;
+}
+.lButton{
+		width: 60px;
+	height: 100%;
+	float: right;
+	background:black;
+	opacity: 0.4;
+	 
+}
+.clear{
+	clear:both;
+}
+img{
+	width: 100%;
+	height: 100%;
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: transparent;
+    padding: 30px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+        margin-top: 20px; 
+	position: absolute;
+
+}
+.pre{
+	float: right;
+}*/

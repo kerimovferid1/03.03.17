@@ -1,0 +1,14 @@
+.wrapper{
+width:960px;
+height:400px;
+background: blue;
+margin: 0 auto;
+background-image: url(../download.jpg) ;
+background-repeat: no-repeat;
+background-size: cover;
+}
+p{
+	font-size: 40px;
+    color: orangered;
+    text-align: center;
+}
